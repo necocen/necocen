@@ -1,4 +1,6 @@
-### Hi there 👋
+### necocen
+
+Swift, Rust, TypeScript, PHP
 
 <!--
 **necocen/necocen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
