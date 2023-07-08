@@ -1,7 +1,6 @@
 # Overview
-**necocen** is a software developer, twitter-er, and physics/mathematics learner.
-
-It uses Swift, Rust, TypeScript for hobby, and PHP, Go for its work.
+**necocen** is a software developer passionate about Twitter, Mathematics, and Physics.  
+It utilizes Swift, Rust, and TypeScript for hobby, and PHP and Go for work.
 
 <!--
 **necocen/necocen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
