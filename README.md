@@ -1,6 +1,6 @@
 # 🐈 necocen
 
-Software developer passionate about various fields.
+A software developer with a broad range of passions.
 
 ### Synopsis
 
@@ -11,25 +11,25 @@ $ necocen [OPTIONS]
 ### Options
 
 - **--location**  
-  Operates from Tokyo, typically in areas more serene than the city's bustling center.
+  Based in Tokyo, favoring quieter areas over the city's hustle.
 
 - **--profession**  
-  Software developer with experience in multiple languages.
+  A versatile developer, skilled in multiple programming languages.
 
 - **--hobby-languages**  
-  Utilizes Rust, Python, and TypeScript for personal projects.
+  Engages with Rust, Python, and TypeScript for personal projects.
 
 - **--work-languages**  
-  Primarily uses PHP and Go for professional endeavors. Previously proficient in Swift, though less practiced recently.
+  Focuses on PHP and Go for professional tasks. Has past experience with Swift.
 
 - **--interests**  
-  Passionate about Twitter, Mathematics, Physics, and Philosophy.
+  Enthusiastic about Twitter, Mathematics, Physics, and Philosophy.
 
 - **--output-device**  
-  Interfaces with the external world using a custom-built electro-capacitive 40% keyboard, crafted for smooth and efficient typing.
+  Relies on a custom-built electro-capacitive 40% keyboard for effective interaction.
 
 - **--latest-hobby**  
-  Recently began learning to play the guitar and studying Finnish.
+  Diving into guitar playing and Finnish language studies.
 
 - **--contact [option]**  
   - **twitter**  
