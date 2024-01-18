@@ -26,7 +26,7 @@ $ necocen [OPTIONS]
   Enthusiastic about Twitter, Mathematics, Physics, and Philosophy.
 
 - **--output-device**  
-  Relies on a custom-built electro-capacitive 40% keyboard for effective interaction.
+  Relies on a [custom-built electro-capacitive 40% keyboard](https://github.com/necocen/necoboard) for effective interaction.
 
 - **--latest-hobby**  
   Diving into guitar playing and Finnish language studies.
