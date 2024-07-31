@@ -20,7 +20,7 @@ $ necocen [OPTIONS]
   Engages with Rust, Python, and TypeScript for personal projects.
 
 - **--work-languages**  
-  Focuses on PHP and Go for professional tasks. Has past experience with Swift.
+  Primarily uses Kotlin for professional tasks. Also experienced with PHP, Go, and Swift.
 
 - **--interests**  
   Enthusiastic about Twitter, Mathematics, Physics, and Philosophy.
