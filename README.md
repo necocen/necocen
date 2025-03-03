@@ -1,6 +1,6 @@
 # 🐈 necocen
 
-A software developer with a broad range of passions.
+Crafting clean code by day, exploring curiosities by night.
 
 ### Synopsis
 
@@ -11,31 +11,34 @@ $ necocen [OPTIONS]
 ### Options
 
 - **--location**  
-  Based in Tokyo, favoring quieter areas over the city's hustle.
+  Tokyo-based, though not a fan of crowded areas.
 
 - **--profession**  
-  A versatile developer, skilled in multiple programming languages.
+  Software developer who transitioned from iOS apps to backend systems. Occasionally writes web frontend, with some experience in machine learning. Passionate about exploring anything achievable through code.
 
-- **--hobby-languages**  
-  Engages with Rust, Python, and TypeScript for personal projects.
-
-- **--work-languages**  
-  Primarily uses Kotlin for professional tasks. Also experienced with PHP, Go, and Swift.
+- **--tech-stack [mode]**
+  - **professional**  
+    Currently using Kotlin and TypeScript. Experienced with PHP, Go, and Swift. Aspiring to write Rust professionally.
+  - **personal**  
+    Rust, Python, TypeScript
 
 - **--interests**  
-  Enthusiastic about Twitter, Mathematics, Physics, and Philosophy.
+  Twitter enthusiast, Mathematics, Physics, Philosophy.
 
-- **--output-device**  
-  Relies on a [custom-built electro-capacitive 40% keyboard](https://github.com/necocen/necoboard) for effective interaction.
+- **--preferred-tools**  
+  [Custom-built electro-capacitive 40% keyboard](https://github.com/necocen/necoboard)
 
-- **--latest-hobby**  
-  Diving into guitar playing and Finnish language studies.
+- **--current-hobbies [activity]**  
+  - **guitar**  
+    Practicing regularly
+  - **finnish-language**  
+    Recently less active
 
-- **--contact [option]**  
-  - **twitter**  
-    [@necocen](https://twitter.com/necocen)
-  - **weblog**  
-    [andante](https://ofni.necocen.info/)
+### Contact
+- **twitter**  
+  [@necocen](https://twitter.com/necocen)
+- **weblog**  
+  [andante](https://ofni.necocen.info/)
 
 <!--
 **necocen/necocen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
