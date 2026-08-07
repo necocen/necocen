@@ -1,6 +1,6 @@
 # 🐈 necocen
 
-Crafting clean code by day, exploring curiosities by night.
+Backend software developer. Will try pretty much anything involving a computer.
 
 ### Synopsis
 
@@ -11,26 +11,34 @@ $ necocen [OPTIONS]
 ### Options
 
 - **--location**  
-  Tokyo-based, though not a fan of crowded areas.
+  Tokyo, Japan. Too many people.
 
 - **--profession**  
-  Software developer who transitioned from iOS apps to backend systems. Occasionally writes web frontend, with some experience in machine learning. Passionate about exploring anything achievable through code.
+  Started with iOS apps; currently focused on backend development. Occasionally works on frontend projects, with some experience in machine learning.
 
 - **--tech-stack [mode]**
   - **professional**  
-    Currently using Kotlin and TypeScript. Experienced with PHP, Go, and Swift. Aspiring to write Rust professionally.
+    Ruby on Rails, Kotlin, TypeScript
   - **personal**  
-    Rust, Python, TypeScript
+    Rust, TypeScript
+  - **previous**
+    Swift, PHP, Go, Python, etc.
+
+- **--projects**
+  Small software and hardware projects, mostly made out of curiosity.
 
 - **--interests**  
   Twitter enthusiast, Mathematics, Physics, Philosophy.
 
-- **--preferred-tools**  
+- **--output-device**  
   [Custom-built electro-capacitive 40% keyboard](https://github.com/necocen/necoboard)
+
+- **--child-processes**
+  Currently managing one child process.
 
 - **--current-hobbies [activity]**  
   - **guitar**  
-    Practicing regularly
+    Not playing much lately
   - **finnish-language**  
     Recently less active
 
@@ -39,18 +47,3 @@ $ necocen [OPTIONS]
   [@necocen](https://twitter.com/necocen)
 - **weblog**  
   [andante](https://ofni.necocen.info/)
-
-<!--
-**necocen/necocen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
