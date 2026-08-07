@@ -21,10 +21,10 @@ $ necocen [OPTIONS]
     Ruby on Rails, Kotlin, TypeScript
   - **personal**  
     Rust, TypeScript
-  - **previous**
+  - **previous**  
     Swift, PHP, Go, Python, etc.
 
-- **--projects**
+- **--projects**  
   Small software and hardware projects, mostly made out of curiosity.
 
 - **--interests**  
@@ -33,7 +33,7 @@ $ necocen [OPTIONS]
 - **--output-device**  
   [Custom-built electro-capacitive 40% keyboard](https://github.com/necocen/necoboard)
 
-- **--child-processes**
+- **--child-processes**  
   Currently managing one child process.
 
 - **--current-hobbies [activity]**  
